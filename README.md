@@ -18,12 +18,14 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The goal is to identify applicants who are likely to default on loans, resulting in less credit losses. This case study tries to achieve this goal by conducting exploratory data analysis (EDA) on the dataset (loan.csv).
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The organisation wishes to identify the underlying causes (or driver variables) of loan default, i.e. the variables that are significant indicators of default. This knowledge can be used by the company to examine its portfolio and risks.
+
+The major goal of this exercise is to assist Lending Club in reducing credit loss. This challenge stems from two possible scenarios:
+
+1. Identifying applicants who are likely to repay their loans is critical, as interest payments can generate revenues for the company. Rejecting such candidates would mean a loss of potential business.
+2. On the other side, accepting loans for applicants who are unlikely to repay and are at danger of default can result in significant financial losses to the organisation.
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -35,25 +37,23 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- [Python](https://www.python.org/) - version 3.14
+- [Matplotlib](https://matplotlib.org/) - version 3.8.4
+- [Numpy](https://numpy.org/) - version 1.26.4
+- [Pandas](https://pandas.pydata.org/) - version 2.2.2
+- [Seaborn](https://seaborn.pydata.org/) - version 0.13.2
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by live session of upGrad on EDA by [Abhisheak Saraswat](https://www.linkedin.com/in/abhisheak-saraswat/) and live session of UpGrad on PreCase Study session by [Akashdeep Makkar
+](https://www.linkedin.com/in/akashdeep-makkar-12110880/)
+- UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [Gokul Narayan](https://github.com/Gokul2448) and [Saurabh Purohit](https://github.com/sp-coding-enthusiast)
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
