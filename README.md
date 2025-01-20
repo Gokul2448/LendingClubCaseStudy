@@ -1,6 +1,6 @@
 # Lending Club Case Study 
-> Lending Club, a consumer finance marketplace that specialises in providing a variety of loans to urban customers, is facing a significant issue in handling the loan approval process. When analysing loan applications, the corporation must make wise decisions to reduce financial losses, which are primarily caused by loans provided to applicants that are deemed "risky."
-> These financial losses, known as credit losses, happen when borrowers fail to repay their loans or default. Simply put, "charged-off" creditors are liable for the company's most severe losses.
+Lending Club, a consumer finance marketplace that specialises in providing a variety of loans to urban customers, is facing a significant issue in handling the loan approval process. When analysing loan applications, the corporation must make wise decisions to reduce financial losses, which are primarily caused by loans provided to applicants that are deemed "risky."
+These financial losses, known as credit losses, happen when borrowers fail to repay their loans or default. Simply put, "charged-off" creditors are liable for the company's most severe losses.
 
 The major goal of this exercise is to assist Lending Club in reducing credit loss. This challenge stems from two possible scenarios:
 
