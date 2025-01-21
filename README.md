@@ -66,15 +66,18 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
   
   Insights from Correlation Metrics 
    - Strong Correlation
+     
    installment is strongly correlated with funded_amnt, loan_amnt, and funded_amnt_inv.
    term shows a strong correlation with the interest rate.
    annual_inc is strongly correlated with loan_amount.
 
   - Weak Correlation
+    
    dti has a weak correlation with most fields.
    emp_length also shows a weak correlation with most fields.
 
   - Negative Correlation
+    
    annual_inc has a negative correlation with dti.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
