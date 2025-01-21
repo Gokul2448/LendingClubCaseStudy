@@ -28,7 +28,7 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 2. On the other side, accepting loans for applicants who are unlikely to repay and are at danger of default can result in significant financial losses to the organisation.
 
 ## Conclusions
-- Conclusion 1 from the analysis
+- ## Conclusion 1 from the analysis
 
   For the Charged off loans the more chance of Applicant being default is as follows
   
@@ -48,7 +48,7 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 14) Applicants having open accounts in the range of 5-10 have the high chance of being defaulted
 15) Applicants having Derogatory public records zero have a high chance of being defaulted
 
-- Conclusion 2 from the analysis
+- ## Conclusion 2 from the analysis
   
   For the Charged off loans the more chance of Applicant being default is as follows
 1) Applicants having income in the range of 60K-80K and home is mortgaged
@@ -62,19 +62,19 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 9)  Applicants having loan amount in the range of 32k-36k and Interest rates in the range of 15-17.5
 10) Applicants having loan amount in the range of 15k-17.5k and Grade is F
 
-- Conclusion 3 from the analysis
+- ## Conclusion 3 from the analysis
   
   Insights from Correlation Metrics 
-   ## Strong Correlation
+   - Strong Correlation
    installment is strongly correlated with funded_amnt, loan_amnt, and funded_amnt_inv.
    term shows a strong correlation with the interest rate.
    annual_inc is strongly correlated with loan_amount.
 
-  ## Weak Correlation
+  - Weak Correlation
    dti has a weak correlation with most fields.
    emp_length also shows a weak correlation with most fields.
 
-  ## Negative Correlation
+  - Negative Correlation
    annual_inc has a negative correlation with dti.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
