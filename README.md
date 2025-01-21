@@ -29,6 +29,8 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 
 ## Conclusions
 - Conclusion 1 from the analysis
+  For the Charged off loans the more chance of Applicant being default is as follows
+  
 1) Applicants with grade B have a high chance of Loan Default
 2) Applicants with RENT as home ownership have the high chance of Default
 3) Applicants with debt consolidation , ie using a new loan to close the existing loans have a high chance of being defaulted
@@ -46,8 +48,33 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 15) Applicants having Derogatory public records zero have a high chance of being defaulted
 
 - Conclusion 2 from the analysis
+  
+  For the Charged off loans the more chance of Applicant being default is as follows
+1) Applicants having income in the range of 60K-80K and home is mortgaged
+2) Applicants having income in the range of 84K-100K and employee length between 5 and 6
+3) Applicants having income in the range of 70K-80K and grade G and F
+4) Applicants having income in the range of 116K-132K and who has installments greater than 500
+5) Applicants having income in the range of 70K-80K and interest rates in range of 21% -25%
+6) Applicants having loan amount in the range of 12k-14k and  taken a loan for small business
+7) Applicants having loan amount in the range of 32k-36k and annual income in range of 70k-80k
+8) Applicants having loan amount in the range of 12k-14k and  who are not owning the home
+9)  Applicants having loan amount in the range of 32k-36k and Interest rates in the range of 15-17.5
+10) Applicants having loan amount in the range of 15k-17.5k and Grade is F
+![image](https://github.com/user-attachments/assets/aea94bee-40ce-4f4a-b6c5-6a9e4769c9ce)
+
 - Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+  Insights from Correlation Metrics 
+   ## Strong Correlation
+   installment is strongly correlated with funded_amnt, loan_amnt, and funded_amnt_inv.
+   term shows a strong correlation with the interest rate.
+   annual_inc is strongly correlated with loan_amount.
+
+  ## Weak Correlation
+   dti has a weak correlation with most fields.
+   emp_length also shows a weak correlation with most fields.
+
+  ## Negative Correlation
+   annual_inc has a negative correlation with dti.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
