@@ -61,7 +61,6 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 8) Applicants having loan amount in the range of 12k-14k and  who are not owning the home
 9)  Applicants having loan amount in the range of 32k-36k and Interest rates in the range of 15-17.5
 10) Applicants having loan amount in the range of 15k-17.5k and Grade is F
-![image](https://github.com/user-attachments/assets/aea94bee-40ce-4f4a-b6c5-6a9e4769c9ce)
 
 - Conclusion 3 from the analysis
   
