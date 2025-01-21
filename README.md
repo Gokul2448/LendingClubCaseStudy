@@ -54,6 +54,6 @@ Give credit here.
 
 
 ## Contact
-Created by [Gokul Narayan](https://github.com/Gokul2448) and [Saurabh Purohit](https://github.com/sp-coding-enthusiast)
+Created by [Gokul Narayanan](https://github.com/Gokul2448) and [Saurabh Purohit](https://github.com/sp-coding-enthusiast)
 
 
