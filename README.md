@@ -29,6 +29,22 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 
 ## Conclusions
 - Conclusion 1 from the analysis
+1) Applicants with grade B have a high chance of Loan Default
+2) Applicants with RENT as home ownership have the high chance of Default
+3) Applicants with debt consolidation , ie using a new loan to close the existing loans have a high chance of being defaulted
+4) Applicants with interest range between 13%-17% have a high chance of being Defaulted
+5) Applicants with term 36 months have high chance of being defaulted
+6) Applicants with employee length 10 have the high chance of being defaulted
+7) Not Verified Applicants have a high chance of becoming Defaulted
+8) Loan amount between 4K-8K have the high range of being defaulted
+9) Funded_amount_inv in the range of 4K-8K have the high chance of being defaulted
+10) Installment in the range if 150-300 have the high chance of being defaulted
+11) dti range of 12-15 have the high chance of being defaulted
+12) Applicants having a annual_income of range 36k-52K is having high chance of being defaulted
+13) Those applicants who have zero inquiry in last 6 months have high chance of being defaulted
+14) Applicants having open accounts in the range of 5-10 have the high chance of being defaulted
+15) Applicants having Derogatory public records zero have a high chance of being defaulted
+
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
