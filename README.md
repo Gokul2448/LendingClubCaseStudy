@@ -29,6 +29,7 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 
 ## Conclusions
 - Conclusion 1 from the analysis
+
   For the Charged off loans the more chance of Applicant being default is as follows
   
 1) Applicants with grade B have a high chance of Loan Default
@@ -63,6 +64,7 @@ The major goal of this exercise is to assist Lending Club in reducing credit los
 ![image](https://github.com/user-attachments/assets/aea94bee-40ce-4f4a-b6c5-6a9e4769c9ce)
 
 - Conclusion 3 from the analysis
+  
   Insights from Correlation Metrics 
    ## Strong Correlation
    installment is strongly correlated with funded_amnt, loan_amnt, and funded_amnt_inv.
